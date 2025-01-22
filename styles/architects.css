@@ -209,6 +209,20 @@
 .sponsor-companies img{
     filter: grayscale(100%);
 }
+
+.footer{
+    margin-top: 10px;
+     background-color:#FFF4E7 ;
+    
+    
+}
+.copyright{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 40px ;
+    
+}
 /* Responsive media query */
 @media screen and (max-width:576px){
     .navbar,.nav-links, .teams{
